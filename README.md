@@ -254,7 +254,9 @@ public class MainActivity2 extends AppCompatActivity {
 </manifest>
 ```
 ###  OUTPUT:
+![HEMADHARSHINI m](https://github.com/user-attachments/assets/a1f668f8-4309-4bd6-8e73-928f90f2c0ec)
 
+![Name HEMADHARSHINI M](https://github.com/user-attachments/assets/eefbbb61-cee7-4556-8a88-62956158b534)
 
 
 ## RESULT:
