@@ -24,7 +24,7 @@ Step 7: Save and run the application.
 Developed by: Hemadharshini M
 Registeration Number : 212222040053
 ```
-MainActivity.java:
+# MainActivity.java:
 ```
 package com.example.workshop;
 import android.os.Bundle;
@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-MainActivity2.java:
+# MainActivity2.java:
 ```
 package com.example.workshop;
 
@@ -108,7 +108,7 @@ public class MainActivity2 extends AppCompatActivity {
     }
 }
 ```
-activity_main.xml:
+# activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -172,7 +172,7 @@ activity_main.xml:
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-activity_second.xml:
+# activity_second.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -223,7 +223,7 @@ activity_second.xml:
         app:layout_constraintWidth_percent="0.8" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-AndroidManifest.xml:
+# AndroidManifest.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
